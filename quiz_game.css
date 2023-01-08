@@ -1,0 +1,66 @@
+.body_background 
+{
+    background-image: url("https://i.pinimg.com/736x/19/90/9e/19909ed8738a402b7b7d619987644761.jpg");
+    background-position: center;
+    background-size: cover;
+    margin-bottom: 0px;
+}
+
+h1{
+    color: white;
+    margin-top: 70px;
+}
+
+hr {
+    width: 150px;
+    background: linear-gradient(to right, rgb(204, 0, 255), rgb(255, 179, 0));
+    height: 5px;
+  }
+
+  .login{
+    background-color: white;
+    height: 450px;
+    width: 500px;
+    border-radius: 10px;
+  }
+
+  input{
+    height: 50px;
+    width: 400px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    border-color: rgba(128, 128, 128, 0);
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px 2px rgba(0, 0, 0, 0.149);
+  }
+
+  .button{
+    width: 700px;
+    box-shadow: 5px 5px 10px 2px rgba(0, 221, 255, 0.463);
+    background-color:rgb(27, 191, 216);
+    border-width: 0px;
+    border-radius: 10px;
+    height:35px;
+    
+  }
+
+  .body_background2{
+    background-image: url("https://uploads-ssl.webflow.com/5a9ee6416e90d20001b20038/62ee06bf1cef28c783147896_Rectangle%201%20(83).svg");
+    background-position: center;
+    background-size: cover;
+    margin-bottom: 600px;
+    overflow:hidden;
+  }
+
+  #output{
+    background: white;
+    border-radius: 10px;
+    border-top: 10px solid #AA4465;
+    padding: 10px;
+    float: none;
+    text-align: left;
+    width: 70%;
+  }
